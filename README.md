@@ -19,9 +19,9 @@ The primary source of Data used here is the Amazon case study.xlsx file shared i
 
 ### Tools Used
 
-- Ms Excel for Data Collection, Cleaning and Data Manipulation
-- SQL Server for Querying and Analysis
-- Power BI to Create a report
+- Ms Excel for Data Collection, Cleaning and Data Manipulation [Download Here](https://microsoft-excel.en.softonic.com/)
+- SQL Server for Querying and Analysis [Download Here](https://learn.microsoft.com/en-us/ssms/install/install)
+- Power BI to Create a report [Download Here](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
 
  ### Data Cleaning and Preparation
 
