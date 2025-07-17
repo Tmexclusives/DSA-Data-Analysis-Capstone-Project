@@ -6,3 +6,9 @@ I have learnt quite a number of things ranging from Ms Excel to SQL, Power BI an
 
 On this Project, I was required to select any 2 out of a 3 case studies shared with me for the project. 
 For each selected case study, I carried out a comprehensive Exploratory Data Analysis (EDA) using the appropriate analytical tools and techniques relevant to the context of each dataset.
+
+## Project Topic 1: Amazon Product Review Analysis
+
+### Project Overview
+ 
+This Data Analysis Project aims to generate insights that can guide product improvement, marketing strategies, and customer engagement for a company named RetailTech Insights which provides e-commerce analytics solutions to sellers on platforms like Amazon.
