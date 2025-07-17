@@ -12,3 +12,6 @@ For each selected case study, I carried out a comprehensive Exploratory Data Ana
 ### Project Overview
  
 This Data Analysis Project aims to generate insights that can guide product improvement, marketing strategies, and customer engagement for a company named RetailTech Insights which provides e-commerce analytics solutions to sellers on platforms like Amazon.
+
+### Data Sources
+The primary source of Data used here is the Amazon case study.xlsx file shared in class for the purpose of this project.
