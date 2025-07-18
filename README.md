@@ -17,6 +17,8 @@ This Data Analysis Project aims to generate insights that can guide product impr
 
 The primary source of Data used here is the Amazon case study.xlsx file shared in class for the purpose of this project.
 
+[Amazon case study.xlsx](https://github.com/user-attachments/files/21321738/Amazon.case.study.xlsx)
+
 ### Tools Used
 
 - Ms Excel for Data Collection, Cleaning and Data Manipulation [Download Here](https://microsoft-excel.en.softonic.com/)
