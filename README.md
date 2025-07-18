@@ -48,3 +48,12 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 12. How many products have fewer than 1,000 reviews? 
 13. Which categories have products with the highest discounts? 
 14. Identify the top 5 products in terms of rating and number of reviews combined.
+
+### Data Analysis
+
+In my Data Analysis, I used several Ms Excel functions and commands such as:
+- =MAX(R4:R30)
+
+### Dashboard Creation 
+
+
