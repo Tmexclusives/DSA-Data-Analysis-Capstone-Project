@@ -56,4 +56,7 @@ In my Data Analysis, I used several Ms Excel functions and commands such as:
 
 ### Dashboard Creation 
 
+[Amazon Product Review Analysis Bar Charts.xlsx](https://github.com/user-attachments/files/21321716/Amazon.Product.Review.Analysis.Bar.Charts.xlsx)
+
+
 
